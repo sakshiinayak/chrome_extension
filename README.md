@@ -1,4 +1,4 @@
-#chrome extension
+chrome extension
 
 This Chrome extension allows users to save URLs of tabs they want to revisit later. It also enables adding, viewing, and deleting leads (saved URLs) directly within the browser.
 
